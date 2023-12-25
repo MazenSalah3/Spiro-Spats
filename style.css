@@ -182,9 +182,12 @@ nav ul li a{
 
 @media (max-width: 450px){
     nav ul li a{
-        font-size: 8px;
+        font-size: 10px;
     }
     .spiro-types{
         left: 20%;
+    }
+    .social-icons i{
+        margin: 0 10px;
     }
 }
